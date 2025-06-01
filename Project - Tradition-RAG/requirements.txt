@@ -1,0 +1,17 @@
+pydantic
+langchain
+langchain_community 
+ipykernel
+pypdf
+langchain-text-splitters
+python-dotenv
+llama-index
+openai
+matplotlib
+streamlit
+langchain-community
+faiss-cpu
+langchain_google_genai
+pypdf
+langchain_huggingface
+langchain_vectorstores
